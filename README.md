@@ -29,7 +29,7 @@ Trabalho desenvolvido de forma colaborativa, com a seguinte divisão de responsa
 | **Integrante 1** — Marcius Lucas Fernandes (rm371349)                   | Core do sistema, motor genético, heurísticas de inicialização e modelagem matemática | `src/core/` |
 | **Integrante 2** — Lucas Camilo (rm373405)                      | Interface gráfica (Pygame), telemetria, integração síncrona com o motor e testes automatizados | `src/interface/` |
 | **Integrante 3** — Gustavo de Carvalho Dantas (rm372153)        | Camada de inteligência cognitiva (LLM) sobre os dados finais da otimização | `src/ia/` |
-| **Integrante 4** — Sabrina de Oliveira Zago Capanema (rm370447) | Empacotamento (Docker), provisionamento de nuvem (Terraform) e documentação de arquitetura | *(planejado)* |
+| **Integrante 4** — Sabrina de Oliveira Zago Capanema (rm370447) | Empacotamento (Docker), provisionamento de nuvem (Terraform) e documentação de arquitetura | `Dockerfile`, `terraform/`, `.github/workflows/` |
 
 ---
 
